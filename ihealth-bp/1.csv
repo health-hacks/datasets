@@ -1,0 +1,213 @@
+source,participant-id,timestamp,bp-systolic,bp-diastolic,heart-rate,notes
+wrist-blood-pressure-monitor,3,1468502389.0,150,97,68,1:20before
+wrist-blood-pressure-monitor,3,1468502587.0,136,91,71,
+wrist-blood-pressure-monitor,3,1468505313.0,145,99,69,
+wrist-blood-pressure-monitor,3,1469534048.0,102,57,61,Noon
+wrist-blood-pressure-monitor,3,1469534215.0,116,68,62,Before lunch
+wrist-blood-pressure-monitor,3,1469534332.0,116,69,68,Standing 
+wrist-blood-pressure-monitor,3,1469574950.0,94,64,64,Before bed
+wrist-blood-pressure-monitor,3,1469575044.0,99,71,83,Standing  before bed
+wrist-blood-pressure-monitor,3,1469575480.0,105,78,72,
+wrist-blood-pressure-monitor,3,1469658917.0,109,70,81,Before bedtime 
+wrist-blood-pressure-monitor,3,1469659054.0,112,64,82,Standing 
+wrist-blood-pressure-monitor,3,1469659256.0,115,97,81,Standing 
+wrist-blood-pressure-monitor,3,1469694865.0,107,75,66,Morning standing 
+wrist-blood-pressure-monitor,3,1469694931.0,101,72,66,Standing 
+wrist-blood-pressure-monitor,3,1469740532.0,113,81,69,Bedtime 
+wrist-blood-pressure-monitor,3,1469740689.0,113,70,74,
+wrist-blood-pressure-monitor,3,1469740800.0,112,68,72,Relaxing 
+wrist-blood-pressure-monitor,3,1469740868.0,116,67,71,
+wrist-blood-pressure-monitor,3,1469741118.0,116,67,74,
+wrist-blood-pressure-monitor,3,1469741859.0,115,71,74,
+wrist-blood-pressure-monitor,3,1469828007.0,114,76,68,Before bed
+wrist-blood-pressure-monitor,3,1469828200.0,103,66,60,Lying down
+wrist-blood-pressure-monitor,3,1469828274.0,105,65,61,Lying 
+wrist-blood-pressure-monitor,3,1469959428.0,102,70,71,Morning 
+wrist-blood-pressure-monitor,3,1469959554.0,101,71,84,Standing 
+wrist-blood-pressure-monitor,3,1469959619.0,105,68,81,Standing 
+wrist-blood-pressure-monitor,3,1469968424.0,131,62,65,
+wrist-blood-pressure-monitor,3,1469968482.0,119,68,66,
+wrist-blood-pressure-monitor,3,1469968532.0,117,66,69,
+wrist-blood-pressure-monitor,3,1469968605.0,117,68,65,
+wrist-blood-pressure-monitor,3,1470347422.0,106,73,65,Before bedtime 
+wrist-blood-pressure-monitor,3,1471903514.0,191,99,74,1st day back from vacation 
+wrist-blood-pressure-monitor,3,1471903613.0,110,68,63,Before bedtime 
+wrist-blood-pressure-monitor,3,1471903681.0,109,75,68,
+wrist-blood-pressure-monitor,3,1471989771.0,103,45,68,Lying down 
+wrist-blood-pressure-monitor,3,1471989830.0,99,52,63,Lying on right side 
+wrist-blood-pressure-monitor,3,1471989898.0,110,48,61,Lying on left side 
+wrist-blood-pressure-monitor,3,1472077307.0,108,65,67,Bedtime 
+wrist-blood-pressure-monitor,3,1472077365.0,110,68,67,Lying down 
+wrist-blood-pressure-monitor,3,1472077470.0,103,75,64,
+wrist-blood-pressure-monitor,3,1473422618.0,105,71,59,Before lunch. Sitting 
+wrist-blood-pressure-monitor,3,1473422681.0,102,74,65,Back from vacation 
+wrist-blood-pressure-monitor,3,1473455090.0,114,74,66,After dinner. Sitting. Just had sweets. 
+wrist-blood-pressure-monitor,3,1473455158.0,110,70,63,
+wrist-blood-pressure-monitor,3,1473455199.0,99,58,67,Eating desserts 
+wrist-blood-pressure-monitor,3,1473540924.0,102,52,68,Lying down. Meditating 
+wrist-blood-pressure-monitor,3,1473540995.0,101,66,56,Bedtime 
+wrist-blood-pressure-monitor,3,1473541059.0,101,55,59,Right arm 
+wrist-blood-pressure-monitor,3,1473541129.0,87,59,58,Left arm
+wrist-blood-pressure-monitor,3,1473541186.0,93,57,56,Left arm. Bedtime. Lying down 
+wrist-blood-pressure-monitor,3,1473629217.0,101,68,53,Bedtime. Lying on right. 
+wrist-blood-pressure-monitor,3,1473629278.0,100,74,57,Bedtime. 
+wrist-blood-pressure-monitor,3,1473629366.0,91,64,58,Lying on right. Left arm 
+wrist-blood-pressure-monitor,3,1473629437.0,84,56,58,Lying on right. Left arm 
+wrist-blood-pressure-monitor,3,1473721052.0,117,76,64,Tired
+wrist-blood-pressure-monitor,3,1473721112.0,98,76,64,
+wrist-blood-pressure-monitor,3,1473721152.0,96,70,62,
+wrist-blood-pressure-monitor,3,1473721208.0,101,65,60,
+wrist-blood-pressure-monitor,3,1473755235.0,133,101,71,Morning 
+wrist-blood-pressure-monitor,3,1473755298.0,129,109,69,Exertion 
+wrist-blood-pressure-monitor,3,1473755371.0,115,82,70,Sitting. Right arm
+wrist-blood-pressure-monitor,3,1473848220.0,122,78,64,
+wrist-blood-pressure-monitor,3,1473848267.0,116,75,65,
+wrist-blood-pressure-monitor,3,1473848315.0,98,70,65,
+wrist-blood-pressure-monitor,3,1473848357.0,104,71,64,
+wrist-blood-pressure-monitor,3,1473922742.0,140,84,61,
+wrist-blood-pressure-monitor,3,1473922808.0,76,54,59,Morning 
+wrist-blood-pressure-monitor,3,1473922924.0,121,89,63,
+wrist-blood-pressure-monitor,3,1473922966.0,116,89,63,
+wrist-blood-pressure-monitor,3,1473977040.0,125,83,65,
+wrist-blood-pressure-monitor,3,1473977087.0,132,91,69,
+wrist-blood-pressure-monitor,3,1473977133.0,126,83,66,
+wrist-blood-pressure-monitor,3,1473977188.0,117,80,65,
+wrist-blood-pressure-monitor,3,1474031708.0,108,69,63,
+wrist-blood-pressure-monitor,3,1474031757.0,116,74,65,
+wrist-blood-pressure-monitor,3,1474031802.0,95,72,65,
+wrist-blood-pressure-monitor,3,1474031845.0,111,70,67,
+wrist-blood-pressure-monitor,3,1474151058.0,120,88,72,
+wrist-blood-pressure-monitor,3,1474151112.0,129,89,70,
+wrist-blood-pressure-monitor,3,1474151159.0,120,78,69,
+wrist-blood-pressure-monitor,3,1474151211.0,129,74,72,
+wrist-blood-pressure-monitor,3,1474191262.0,120,81,71,
+wrist-blood-pressure-monitor,3,1474191304.0,131,86,71,
+wrist-blood-pressure-monitor,3,1474191354.0,135,93,69,
+wrist-blood-pressure-monitor,3,1474191402.0,129,83,67,
+wrist-blood-pressure-monitor,3,1474362253.0,123,94,68,
+wrist-blood-pressure-monitor,3,1474362299.0,124,101,62,
+wrist-blood-pressure-monitor,3,1474362368.0,130,96,59,
+wrist-blood-pressure-monitor,3,1474362416.0,133,80,62,
+wrist-blood-pressure-monitor,3,1474496817.0,96,74,63,
+wrist-blood-pressure-monitor,3,1474496860.0,100,73,65,
+wrist-blood-pressure-monitor,3,1474496921.0,110,80,68,
+wrist-blood-pressure-monitor,3,1474496967.0,118,85,61,
+wrist-blood-pressure-monitor,3,1474497016.0,117,87,62,
+wrist-blood-pressure-monitor,3,1474539206.0,99,66,77,
+wrist-blood-pressure-monitor,3,1474539251.0,122,71,77,
+wrist-blood-pressure-monitor,3,1474539296.0,136,86,76,
+wrist-blood-pressure-monitor,3,1474539341.0,121,82,68,
+wrist-blood-pressure-monitor,3,1474539394.0,114,83,71,
+wrist-blood-pressure-monitor,3,1474627665.0,118,79,70,
+wrist-blood-pressure-monitor,3,1474627718.0,119,85,68,
+wrist-blood-pressure-monitor,3,1474627769.0,122,86,70,
+wrist-blood-pressure-monitor,3,1474627817.0,122,87,70,
+wrist-blood-pressure-monitor,3,1474705944.0,126,89,76,
+wrist-blood-pressure-monitor,3,1474705995.0,136,85,71,
+wrist-blood-pressure-monitor,3,1474706047.0,122,86,69,
+wrist-blood-pressure-monitor,3,1474706093.0,135,86,72,
+wrist-blood-pressure-monitor,3,1474931429.0,120,80,73,
+wrist-blood-pressure-monitor,3,1474931469.0,113,83,71,
+wrist-blood-pressure-monitor,3,1474931509.0,121,86,75,
+wrist-blood-pressure-monitor,3,1474931550.0,115,89,76,
+wrist-blood-pressure-monitor,3,1475015969.0,92,54,67,
+wrist-blood-pressure-monitor,3,1475016019.0,116,74,71,
+wrist-blood-pressure-monitor,3,1475016063.0,102,67,70,
+wrist-blood-pressure-monitor,3,1475016106.0,127,94,95,
+wrist-blood-pressure-monitor,3,1475057376.0,152,97,71,
+wrist-blood-pressure-monitor,3,1475057429.0,155,104,66,
+wrist-blood-pressure-monitor,3,1475057482.0,144,112,65,
+wrist-blood-pressure-monitor,3,1475057542.0,118,95,60,
+wrist-blood-pressure-monitor,3,1475057592.0,135,102,67,
+wrist-blood-pressure-monitor,3,1475057640.0,124,93,63,
+wrist-blood-pressure-monitor,3,1475138783.0,137,92,64,
+wrist-blood-pressure-monitor,3,1475138834.0,130,103,63,
+wrist-blood-pressure-monitor,3,1475138912.0,119,90,69,
+wrist-blood-pressure-monitor,3,1475138969.0,117,89,66,
+wrist-blood-pressure-monitor,3,1475223856.0,138,81,79,
+wrist-blood-pressure-monitor,3,1475223902.0,124,90,70,
+wrist-blood-pressure-monitor,3,1475223946.0,118,90,69,
+wrist-blood-pressure-monitor,3,1475223992.0,133,106,66,
+wrist-blood-pressure-monitor,3,1475334094.0,130,86,88,
+wrist-blood-pressure-monitor,3,1475334142.0,120,88,79,
+wrist-blood-pressure-monitor,3,1475334187.0,120,78,85,
+wrist-blood-pressure-monitor,3,1475334233.0,119,82,78,
+wrist-blood-pressure-monitor,3,1475407707.0,123,81,76,
+wrist-blood-pressure-monitor,3,1475407748.0,101,73,72,
+wrist-blood-pressure-monitor,3,1475407795.0,117,83,77,
+wrist-blood-pressure-monitor,3,1475407838.0,110,69,73,
+wrist-blood-pressure-monitor,3,1475530914.0,116,74,74,
+wrist-blood-pressure-monitor,3,1475530964.0,125,77,73,
+wrist-blood-pressure-monitor,3,1475531015.0,116,84,74,
+wrist-blood-pressure-monitor,3,1475531054.0,116,83,76,
+wrist-blood-pressure-monitor,3,1475531092.0,115,99,78,
+wrist-blood-pressure-monitor,3,1475570224.0,109,83,62,
+wrist-blood-pressure-monitor,3,1475570269.0,132,86,65,
+wrist-blood-pressure-monitor,3,1475570319.0,122,91,60,
+wrist-blood-pressure-monitor,3,1475570365.0,126,100,62,
+wrist-blood-pressure-monitor,3,1475570420.0,123,100,64,
+wrist-blood-pressure-monitor,3,1475698932.0,128,83,76,
+wrist-blood-pressure-monitor,3,1475698977.0,131,78,76,
+wrist-blood-pressure-monitor,3,1475699032.0,123,94,77,
+wrist-blood-pressure-monitor,3,1475699086.0,122,71,79,
+wrist-blood-pressure-monitor,3,1475790520.0,122,85,79,
+wrist-blood-pressure-monitor,3,1475790561.0,124,104,149,
+wrist-blood-pressure-monitor,3,1475790604.0,116,79,75,
+wrist-blood-pressure-monitor,3,1475790644.0,112,78,73,
+wrist-blood-pressure-monitor,3,1475790687.0,110,77,74,
+wrist-blood-pressure-monitor,3,1475830350.0,125,80,66,
+wrist-blood-pressure-monitor,3,1475830402.0,121,74,65,
+wrist-blood-pressure-monitor,3,1475830485.0,114,81,65,
+wrist-blood-pressure-monitor,3,1475830534.0,122,85,66,
+wrist-blood-pressure-monitor,3,1475916475.0,125,80,67,
+wrist-blood-pressure-monitor,3,1475916527.0,120,80,67,
+wrist-blood-pressure-monitor,3,1475916577.0,120,84,68,
+wrist-blood-pressure-monitor,3,1475916622.0,115,82,70,
+wrist-blood-pressure-monitor,3,1475916670.0,132,82,69,
+wrist-blood-pressure-monitor,3,1475996119.0,99,64,49,
+wrist-blood-pressure-monitor,3,1475996169.0,102,68,50,
+wrist-blood-pressure-monitor,3,1475996215.0,109,62,49,
+wrist-blood-pressure-monitor,3,1475996266.0,97,65,47,
+wrist-blood-pressure-monitor,3,1475996320.0,102,62,50,
+wrist-blood-pressure-monitor,3,1476080118.0,101,71,54,
+wrist-blood-pressure-monitor,3,1476080162.0,105,71,48,
+wrist-blood-pressure-monitor,3,1476080208.0,113,69,48,
+wrist-blood-pressure-monitor,3,1476080251.0,109,76,51,
+wrist-blood-pressure-monitor,3,1476254813.0,108,76,51,
+wrist-blood-pressure-monitor,3,1476254879.0,109,79,51,
+wrist-blood-pressure-monitor,3,1476254919.0,115,83,59,
+wrist-blood-pressure-monitor,3,1476254959.0,100,74,48,
+wrist-blood-pressure-monitor,3,1476255006.0,111,71,51,
+wrist-blood-pressure-monitor,3,1476255060.0,122,87,55,
+wrist-blood-pressure-monitor,3,1476399179.0,85,61,56,
+wrist-blood-pressure-monitor,3,1476399220.0,95,66,57,
+wrist-blood-pressure-monitor,3,1476399265.0,98,65,57,
+wrist-blood-pressure-monitor,3,1476484502.0,106,78,51,
+wrist-blood-pressure-monitor,3,1476484557.0,108,80,52,
+wrist-blood-pressure-monitor,3,1476484598.0,111,82,48,
+wrist-blood-pressure-monitor,3,1476484650.0,118,80,52,
+wrist-blood-pressure-monitor,3,1476484693.0,109,77,54,
+wrist-blood-pressure-monitor,3,1476516530.0,135,93,68,
+wrist-blood-pressure-monitor,3,1476516576.0,129,91,65,
+wrist-blood-pressure-monitor,3,1476516619.0,122,94,65,
+wrist-blood-pressure-monitor,3,1476516661.0,123,89,65,
+wrist-blood-pressure-monitor,3,1476524832.0,91,58,57,
+wrist-blood-pressure-monitor,3,1476656877.0,111,74,62,
+wrist-blood-pressure-monitor,3,1476656924.0,111,67,61,
+wrist-blood-pressure-monitor,3,1476656971.0,107,64,61,
+wrist-blood-pressure-monitor,3,1476657015.0,105,69,58,
+wrist-blood-pressure-monitor,3,1476737067.0,102,65,62,
+wrist-blood-pressure-monitor,3,1476737110.0,101,71,64,
+wrist-blood-pressure-monitor,3,1476737173.0,96,69,61,
+wrist-blood-pressure-monitor,3,1476737222.0,100,69,61,
+wrist-blood-pressure-monitor,3,1476830387.0,97,64,63,
+wrist-blood-pressure-monitor,3,1476830429.0,94,57,64,
+wrist-blood-pressure-monitor,3,1476830471.0,99,61,64,
+wrist-blood-pressure-monitor,3,1476830515.0,92,62,62,
+wrist-blood-pressure-monitor,3,1476951105.0,98,70,61,
+wrist-blood-pressure-monitor,3,1476951150.0,102,77,58,
+wrist-blood-pressure-monitor,3,1476951192.0,105,78,57,
+wrist-blood-pressure-monitor,3,1476951249.0,112,79,59,
+wrist-blood-pressure-monitor,3,1477083685.0,96,63,59,
+wrist-blood-pressure-monitor,3,1477083726.0,94,71,63,
+wrist-blood-pressure-monitor,3,1477083771.0,94,63,63,
